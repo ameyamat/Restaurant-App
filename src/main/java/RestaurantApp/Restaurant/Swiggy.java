@@ -11,6 +11,6 @@ public class Swiggy {
     @Autowired
     private Swiggy yogurt;
 
-    @GetMapping
+
 
 }
