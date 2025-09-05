@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Swiggy {
 
     @Autowired
-    private Swiggy yogurt;
+    private Zomato yogurt;
 
 
 
